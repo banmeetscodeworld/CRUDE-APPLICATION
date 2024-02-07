@@ -12,4 +12,7 @@ That's it. You are ready to go. To execute this project just type
 npm start
 ```
 
-Enjoy...!
+## Tech Stack
+
+- **Node.js**: JavaScript runtime for server-side development
+- **Express.js**: Web application framework for Node.js
